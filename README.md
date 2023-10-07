@@ -1,24 +1,11 @@
-# vue-kanban
+# Vue 3 options API kanban
 
-## Project setup
-```
-npm install
-```
+[Ссылка на деплой](https://vue-kanban-red.vercel.app/)
 
-### Compiles and hot-reloads for development
+## Для локального запуска:
 ```
+npm i
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
